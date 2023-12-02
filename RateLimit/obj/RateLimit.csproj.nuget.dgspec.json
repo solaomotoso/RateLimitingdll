@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\olusola.omotoso\\Documents\\Angular\\RateLimit\\RateLimit\\RateLimit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\olusola.omotoso\\Documents\\Angular\\RateLimit\\RateLimit\\RateLimit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olusola.omotoso\\Documents\\Angular\\RateLimit\\RateLimit\\RateLimit.csproj",
+        "projectName": "RateLimit",
+        "projectPath": "C:\\Users\\olusola.omotoso\\Documents\\Angular\\RateLimit\\RateLimit\\RateLimit.csproj",
+        "packagesPath": "C:\\Users\\olusola.omotoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olusola.omotoso\\Documents\\Angular\\RateLimit\\RateLimit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olusola.omotoso\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.RateLimiting": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.22476.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "RepoDb.SQLite.System": {
+              "target": "Package",
+              "version": "[1.13.1, )"
+            },
+            "RepoDb.SqlServer": {
+              "target": "Package",
+              "version": "[1.13.1, )"
+            },
+            "RepoDb.Sqlite.Microsoft": {
+              "target": "Package",
+              "version": "[1.13.1, )"
+            },
+            "System.Threading.RateLimiting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

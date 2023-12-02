@@ -1,0 +1,12 @@
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\bin\Debug\net6.0\RateLimit.deps.json
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\bin\Debug\net6.0\RateLimit.dll
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\bin\Debug\net6.0\RateLimit.pdb
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\obj\Debug\net6.0\RateLimit.csproj.AssemblyReference.cache
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\obj\Debug\net6.0\RateLimit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\obj\Debug\net6.0\RateLimit.AssemblyInfoInputs.cache
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\obj\Debug\net6.0\RateLimit.AssemblyInfo.cs
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\obj\Debug\net6.0\RateLimit.csproj.CoreCompileInputs.cache
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\obj\Debug\net6.0\RateLimit.dll
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\obj\Debug\net6.0\refint\RateLimit.dll
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\obj\Debug\net6.0\RateLimit.pdb
+C:\Users\olusola.omotoso\Documents\Angular\RateLimit\RateLimit\obj\Debug\net6.0\ref\RateLimit.dll
